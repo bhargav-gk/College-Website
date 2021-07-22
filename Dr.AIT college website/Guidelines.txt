@@ -1,0 +1,5 @@
+This is a webpage about Dr.AIT College.
+open any .html file in any available browser to execute the code.
+you can browse any other webpage from any .html file in this given folder.
+
+note:donot change the file names, donot dislocate the files, donot delete any files.
